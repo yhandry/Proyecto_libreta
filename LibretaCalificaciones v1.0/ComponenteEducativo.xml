@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Libreta>
+  <Materia>
+    <Identificacion>1234214346547</Identificacion>
+    <Nombre>fisica</Nombre>
+    <Bimestre1>1</Bimestre1>
+    <Bimestre2>2</Bimestre2>
+    <TotalBimestre />
+    <Supletorio1>2</Supletorio1>
+    <Supletorio2>1</Supletorio2>
+    <TotalSupletorio />
+    <AcreditacionNotas />
+    <Asistencia1>1</Asistencia1>
+    <Asistencia2>1</Asistencia2>
+    <TotalAsistencia />
+    <AcreditacionAsistencia />
+    <Promocion />
+  </Materia>
+  <Materia>
+    <Identificacion>12345</Identificacion>
+    <Nombre>fds</Nombre>
+    <Bimestre1>1</Bimestre1>
+    <Bimestre2>2</Bimestre2>
+    <TotalBimestre />
+    <Supletorio1>1</Supletorio1>
+    <Supletorio2>2</Supletorio2>
+    <TotalSupletorio />
+    <AcreditacionNotas />
+    <Asistencia1>1</Asistencia1>
+    <Asistencia2>0</Asistencia2>
+    <TotalAsistencia />
+    <AcreditacionAsistencia />
+    <Promocion />
+  </Materia>
+  <Materia>
+    <Identificacion />
+    <Nombre />
+    <Bimestre1 />
+    <Bimestre2 />
+    <TotalBimestre />
+    <Supletorio1 />
+    <Supletorio2 />
+    <TotalSupletorio />
+    <AcreditacionNotas />
+    <Asistencia1 />
+    <Asistencia2 />
+    <TotalAsistencia />
+    <AcreditacionAsistencia />
+    <Promocion />
+  </Materia>
+  <Materia>
+    <Identificacion>123456</Identificacion>
+    <Nombre>5</Nombre>
+    <Bimestre1>1</Bimestre1>
+    <Bimestre2>2</Bimestre2>
+    <TotalBimestre />
+    <Supletorio1>1</Supletorio1>
+    <Supletorio2 />
+    <TotalSupletorio />
+    <AcreditacionNotas />
+    <Asistencia1>2</Asistencia1>
+    <Asistencia2>2</Asistencia2>
+    <TotalAsistencia />
+    <AcreditacionAsistencia />
+    <Promocion />
+  </Materia>
+  <Materia>
+    <Identificacion>1234567</Identificacion>
+    <Nombre>fisica</Nombre>
+    <Bimestre1>11</Bimestre1>
+    <Bimestre2 />
+    <TotalBimestre />
+    <Supletorio1>1</Supletorio1>
+    <Supletorio2>2</Supletorio2>
+    <TotalSupletorio />
+    <AcreditacionNotas />
+    <Asistencia1>20</Asistencia1>
+    <Asistencia2>20</Asistencia2>
+    <TotalAsistencia />
+    <AcreditacionAsistencia />
+    <Promocion />
+  </Materia>
+  <Materia>
+    <Identificacion>12345</Identificacion>
+    <Nombre>pro</Nombre>
+    <Bimestre1>19</Bimestre1>
+    <Bimestre2>20</Bimestre2>
+    <TotalBimestre />
+    <Supletorio1>0</Supletorio1>
+    <Supletorio2>0</Supletorio2>
+    <TotalSupletorio />
+    <AcreditacionNotas />
+    <Asistencia1>40</Asistencia1>
+    <Asistencia2>40</Asistencia2>
+    <TotalAsistencia />
+    <AcreditacionAsistencia />
+    <Promocion />
+  </Materia>
+  <Materia>
+    <Identificacion>12345</Identificacion>
+    <Nombre>pro</Nombre>
+    <Bimestre1>18</Bimestre1>
+    <Bimestre2>29</Bimestre2>
+    <TotalBimestre />
+    <Supletorio1>0</Supletorio1>
+    <Supletorio2>0</Supletorio2>
+    <TotalSupletorio />
+    <AcreditacionNotas />
+    <Asistencia1>20</Asistencia1>
+    <Asistencia2>20</Asistencia2>
+    <TotalAsistencia />
+    <AcreditacionAsistencia />
+    <Promocion />
+  </Materia>
+  <Materia>
+    <Identificacion>1900513619</Identificacion>
+    <Nombre>programacion</Nombre>
+    <Bimestre1>10</Bimestre1>
+    <Bimestre2>35</Bimestre2>
+    <TotalBimestre />
+    <Supletorio1>1</Supletorio1>
+    <Supletorio2>2</Supletorio2>
+    <TotalSupletorio />
+    <AcreditacionNotas />
+    <Asistencia1>31</Asistencia1>
+    <Asistencia2>31</Asistencia2>
+    <TotalAsistencia />
+    <AcreditacionAsistencia />
+    <Promocion />
+  </Materia>
+  <Materia>
+    <Identificacion>hola</Identificacion>
+    <Nombre />
+    <Bimestre1 />
+    <Bimestre2 />
+    <TotalBimestre />
+    <Supletorio1 />
+    <Supletorio2 />
+    <TotalSupletorio />
+    <AcreditacionNotas />
+    <Asistencia1 />
+    <Asistencia2 />
+    <TotalAsistencia />
+    <AcreditacionAsistencia />
+    <Promocion />
+  </Materia>
+</Libreta>
